@@ -1,4 +1,4 @@
-<img src="images/thumbs/pencil/in_the_forest.jpg" align="right" style="border-radius: 50%;"/>
+<img src="images/thumbs/pencil/in_the_forest.jpg" align="right" />
 
 # Art Gallery
 
